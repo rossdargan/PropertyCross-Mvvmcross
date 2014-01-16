@@ -8,5 +8,5 @@
 	/>--> 
 	<item android:id="@+id/favourites_view_item"
 		android:title="@string/favourites_view"
-yourapp:showAsAction="ifRoom|withText"/>
+yourapp:showAsAction="always"/>
 </menu>
